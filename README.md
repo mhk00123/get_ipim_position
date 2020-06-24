@@ -7,3 +7,8 @@ Script for check if IPIM  position web page has any update.
 1. `requests-html`
 2. `requests`
 3. `Server醬`
+
+## How to use
+```
+python get_ipim.py
+```
